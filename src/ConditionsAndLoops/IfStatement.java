@@ -13,9 +13,8 @@ public class IfStatement {
         else if(marks<80){
             System.out.println("B");
         }
-        else{
-            System.out.println("C");
-        }
+
+
 
     }
 }
